@@ -37,3 +37,7 @@ git then uses this file is added to git
 ##mistakes
 If you accidentally overwrite a file you can use git status then git checkout 
 to revert to the old version
+
+
+These are some additions to my notes
+
